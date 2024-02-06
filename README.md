@@ -1,2 +1,2 @@
-# SwifiUI_Project_MindLink
+# SwiftUI_Project_MindLink
 Under development
